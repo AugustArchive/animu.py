@@ -13,7 +13,7 @@ setup(
     version='0.1.0',
     description='An Python API Wrapper for CF\'s API.',
     long_description=long_description,
-    long_description_content_type='text/markdown'
+    long_description_content_type='text/markdown',
     url='https://github.com/CFCorp/animu.py',
     author='August (Chris)',
     classifiers=[
@@ -23,6 +23,5 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
     ],
-    keywords='hentai anime animu api api-wrapper',
-    py_modules=['animu']
+    keywords='hentai anime animu api api-wrapper'
 )
